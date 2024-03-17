@@ -1,6 +1,9 @@
 {
 "spider":"./jar/fan.txt;md5;9fdf355f7d803698900ccf4ceb4626cb",
-"lives":[{"name":"初秋语•ipv4","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[
+{ "name": "白嫖", "type": 0, "url": "https://mirror.ghproxy.com/raw.githubusercontent.com/ssili126/tv/main/itvlist.m3u"},
+{ "name": "tvlive", "type": 0, "url": "https://xhdwc.tk/tvlive.txt", "playerType": 2 },
+{"name":"初秋语•ipv4","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"drang•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
