@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/custom_spider.jar;md5;2dd1047cb29daf7d351201a1cca49ae5",
+  "spider": "./jar/custom_spider.jar;md5;9420d75153250b3e5d548637b60f66ee",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "sites": [
     {
@@ -380,6 +380,7 @@
       "hosts": [
         "raw.githubusercontent.com",
         "googlevideo.com",
+        "googleapis.com",
         "cdn.v82u1l.com",
         "cdn.iz8qkg.com",
         "cdn.kin6c1.com",
