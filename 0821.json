@@ -26,8 +26,6 @@
 "sites":[
 {"key":"豆豆","name":"豆瓣","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"酷看","name":"酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-
 {"key":"魔都","name":"魔都","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"华为8","name":"华为8","type":1,"api":"https://hw8.live/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Hei","name":"Hei","type":1,"api":"https://json.heimuer.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1,"changeable":1},
@@ -35,6 +33,7 @@
 {"key":"贱贱","name":"贱贱","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 {"key":"南瓜","name":"南瓜","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 
+{"key":"酷看","name":"酷看┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Lib","name": "立播┃秒播","type": 3,"api": "csp_Libvio","searchable": 1,"quickSearch": 1,"changeable":1,"ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"文采","name":"文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"小点","name":"小点┃多线","type":3,"api":"csp_Appxdys","searchable":1,"quickSearch":1,"changeable":0},
