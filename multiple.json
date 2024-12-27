@@ -1,0 +1,56 @@
+{
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/lofxf/fongmi-config/custom/0821.json",
+            "name": "🚀1-自用"
+        },
+        {
+            "url": "https://肥猫.com",
+            "name": "🚀2-肥猫"
+        },
+        {
+            "url": "https://www.饭太硬.com/tv",
+            "name": "🚀3-饭太硬推荐"
+        },
+        {
+            "url": "https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
+            "name": "🚀4-宝盒线路"
+        },
+        {
+            "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+            "name": "🚀5-王二小"
+        },
+        {
+            "url": "https://ghp.ci/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+            "name": "🚀6-FongMI线路"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "🚀7-巧计线路"
+        },
+        {
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "🚀8-小米"
+        },
+        {
+            "url": "https://weixine.net/ysc.json",
+            "name": "🚀9-运输车路"
+        },
+        {
+            "url": "http://www.lyyytv.cn/yt/yt.json",
+            "name": "🚀10-影探线路"
+        },
+        {
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀11-南风"
+        },
+        {
+            "url": "https://szyyds.cn/tv/x.json",
+            "name": "🚀12-小马线路"
+        },
+        {
+            "url": "https://ghp.ci/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "🚀13-潇洒哥线路"
+        }
+    ]
+}
