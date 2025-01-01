@@ -35,16 +35,6 @@
       "playerType": 2
     },
     {
-      "key": "低端",
-      "name": "低端┃外剧",
-      "type": 3,
-      "api": "csp_Ddrk",
-      "playerType": "2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "魔都",
       "name": "魔都",
       "type": 1,
@@ -129,14 +119,6 @@
       "searchable": 0
     },
     {
-      "key": "csp_Fantuan",
-      "name": "🍙┃饭团┃影视",
-      "type": 3,
-      "api": "csp_Fantuan",
-      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
-      "ext": "https://www.fantuan.vip"
-    },
-    {
       "key": "csp_Quanwk",
       "name": "👀┃全看┃影视",
       "type": 3,
@@ -181,13 +163,6 @@
       "name": "🥇️┃金牌┃影视",
       "type": 3,
       "api": "csp_Jpyy"
-    },
-    {
-      "key": "csp_Nongm",
-      "name": "🌾️┃农民┃影视",
-      "type": 3,
-      "api": "csp_Nongm",
-      "ext": "https://wwgz.cn"
     }
   ],
   "parses": [
